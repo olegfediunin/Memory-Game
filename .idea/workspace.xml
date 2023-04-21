@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ffa418c-3a42-46f7-895c-29f445ed4966" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Board.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Square.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +67,23 @@
       <updated>1679693696294</updated>
       <workItem from="1679693697409" duration="30853000" />
       <workItem from="1680576251687" duration="272000" />
-      <workItem from="1682089581300" duration="466000" />
+      <workItem from="1682089581300" duration="1734000" />
     </task>
+    <task id="LOCAL-00001" summary="memory game">
+      <created>1682090292222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682090292222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="memory game" />
+    <option name="LAST_COMMIT_MESSAGE" value="memory game" />
   </component>
 </project>
